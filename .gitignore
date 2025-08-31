@@ -1,0 +1,7 @@
+data
+qdrant_data
+config
+__pycache__
+*.db
+.venv
+.env

@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+torch
+torchvision
+transformers
+Pillow
+python-multipart
+watchdog
+numpy
+qdrant-client
+aiofiles
+jinja2
+uvicorn[standard]
+websockets
+python-dotenv
+httpx
+accelerate
